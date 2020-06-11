@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="imageWidth">210dp</dimen>
+    <dimen name="imageHeight">190dp</dimen>
+
+    <dimen name="image2Width">50dp</dimen>
+    <dimen name="image2Height">80dp</dimen>
+
+    <dimen name="TextSize">13sp</dimen>
+
+
+    <dimen name="graphWidth">330dp</dimen>
+    <dimen name="graphHeight">140dp</dimen>
+
+    <dimen name="pqrstWidth">65dp</dimen>
+    <dimen name="pqrstHeight">15dp</dimen>
+
+    <dimen name="ecgWidth">65dp</dimen>
+    <dimen name="ecgHeight">40dp</dimen>
+
+</resources>

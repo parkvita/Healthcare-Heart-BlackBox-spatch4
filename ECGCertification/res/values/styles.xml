@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="android:itemBackground">#212121</item>
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="android:itemTextAppearance">@style/MenuText</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="Transparent" parent="@style/Theme.AppCompat">
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="MenuText">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="StyledDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:background">#212121</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="CustomAlertDialogStyle">
+        <item name="android:bottomBright">#212121</item>
+        <item name="android:bottomDark">#212121</item>
+        <item name="android:bottomMedium">#212121</item>
+        <item name="android:centerBright">#212121</item>
+        <item name="android:centerDark">#212121</item>
+        <item name="android:centerMedium">#212121</item>
+        <item name="android:topBright">#212121</item>
+        <item name="android:topDark">#212121</item>
+    </style>
+
+    <style name="Theme.AppCompat.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+
+</resources>

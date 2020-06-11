@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ECGCertification/ECGCertification.iml" filepath="$PROJECT_DIR$/ECGCertification/ECGCertification.iml" group="Healthcare-Heart-BlackBox-spatch4/ECGCertification" />
+      <module fileurl="file://$PROJECT_DIR$/Healthcare-Heart-BlackBox-spatch4.iml" filepath="$PROJECT_DIR$/Healthcare-Heart-BlackBox-spatch4.iml" group="Healthcare-Heart-BlackBox-spatch4" />
+      <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" group="Healthcare-Heart-BlackBox-spatch4/MPChartLib" />
+    </modules>
+  </component>
+</project>

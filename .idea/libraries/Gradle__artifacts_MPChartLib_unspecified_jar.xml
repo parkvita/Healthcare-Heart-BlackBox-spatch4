@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:MPChartLib:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MPChartLib/build/.transforms/fa575dc0f866d6904613351d5f86fc80/MPChartLib-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/MPChartLib/build/.transforms/fa575dc0f866d6904613351d5f86fc80/MPChartLib-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
